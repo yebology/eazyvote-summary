@@ -15,7 +15,7 @@ Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power o
 ## ⚙️ Tech Stack Behind EazyVote : 
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
-- 🔗 Library : Ether.js
+- 🔗 Library : Ethers.js
 - ⏰ Automation : Chainlink
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
