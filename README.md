@@ -1,6 +1,6 @@
 # EazyVote : The Next Generation of Modern Voting 🚀
 ## ✨ Overview
-Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power of blockchain technology, EazyVote offers a secure, transparent, and decentralized platform for conducting votes and elections. 🔒 Built on Ethereum and operating on the Sepolia ETH, EazyVote is designed to ensure that every vote is counted fairly and accurately. 🌐💡
+Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power of blockchain technology, EazyVote offers a secure, transparent, and decentralized platform for conducting votes and elections. 🔒 Built on Ethereum network, EazyVote is designed to ensure that every vote is counted fairly and accurately. 🌐💡
 
 ## 💡 Features
 - 🗳️ Create Election
@@ -15,7 +15,7 @@ Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power o
 ## ⚙️ Tech Stack Behind EazyVote : 
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
-- 🔗 Library : Ethers.js
+- 🔗 Library : ethers.js
 - ⏰ Automation : Chainlink
 - ⚡ API Provider : Alchemy
 - 🎨 Styling : TailwindCSS
