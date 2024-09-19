@@ -12,7 +12,7 @@ Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power o
 - ✨ Vote Candidate : Ready to vote? 🗳️ Your vote is safely recorded on the blockchain, ensuring it`s as secure as a vault. 🕒 Pro Tip: Each user can vote just once per election—no double-dipping allowed! This keeps things fair and square.
 - 📝 Give Feedback : Got ideas or suggestions? We’d love to hear them! Drop your feedback and help us make EazyVote even better.
 
-## ⚙️ Tech Stack Behind EazyVote : 
+## ⚙️ Tech Stack Behind EazyVote
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Smart Contract Development : Foundry (Solidity)
 - 🔗 Library : ethers.js
@@ -21,7 +21,7 @@ Welcome to EazyVote, your ultimate Web3 voting dApp! 🎉 Leveraging the power o
 - 🎨 Styling : TailwindCSS
 - 🎬 Animations : MagicUI & Framer Motion
 
-## 🚀 EazyVote Insights : Code, Contracts, and Demo 
+## 🚀 EazyVote Insights 
 - 💻 dApp : [See the code](https://github.com/yebology/eazyvote-dapp.git)
 - 🔧 Smart Contract :  [See the code](https://github.com/yebology/eazyvote-smartcontract.git)
 - 📜 Contract Address : [View on Etherscan](https://sepolia.etherscan.io/address/0xFC574e430206Abc8C2BB2519A97a7F8C3984B1be)
